@@ -1,0 +1,4 @@
+repository "RemorseUPDMO@andreevicloh@cloud"
+  path "/"
+    br "/main"
+    co "/main"
